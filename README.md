@@ -1,2 +1,2 @@
 # nodejs_test
-test repository for exercies on node.js
+test repository for exercises on node.js
